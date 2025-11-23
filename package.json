@@ -1,0 +1,18 @@
+{
+"name": "task2-nunjucks-gulp",
+"version": "1.0.0",
+"description": "Internship Task 2 - Nunjucks + Gulp implementation",
+"scripts": {
+"start": "gulp",
+"build": "gulp templates"
+},
+"author": "",
+"license": "MIT",
+"devDependencies": {
+"browser-sync": "^2.27.11",
+"gulp": "^4.0.2",
+"gulp-data": "^1.3.1",
+"gulp-htmlmin": "^5.0.1",
+"gulp-nunjucks-render": "^2.2.3"
+}
+}
